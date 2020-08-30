@@ -1,0 +1,1 @@
+"D:\Automation\FolderOrganizer\.env\Scripts\python.exe" "D:\Automation\FolderOrganizer\folder_organizer\folder_organizer.py"
