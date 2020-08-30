@@ -1,1 +1,1 @@
-"D:\Automation\FolderOrganizer\.env\Scripts\python.exe" "D:\Automation\FolderOrganizer\folder_organizer\folder_organizer.py"
+"PATH_TO_YOUR_PYTHON_EXECUTABLE" "PATH_TO_CURRENT_LOCATION_OF_FILE\folder_organizer_python\folder_organizer\folder_organizer.py"
